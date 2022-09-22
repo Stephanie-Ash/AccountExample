@@ -1,0 +1,1 @@
+INSERT INTO `account` (`account_number`, `name`) VALUES ('num1', 'acct1'), ('num2', 'acct2'), ('num3', 'acct3');
